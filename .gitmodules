@@ -1,0 +1,6 @@
+[submodule "microsoft_kg_entropy_model"]
+	path = microsoft_kg_entropy_model
+	url = https://github.com/Shalini-Vasudevan/microsoft_kg_entropy_model.git
+[submodule "EntroGraph-frontend"]
+	path = EntroGraph-frontend
+	url = https://github.com/Shalini-Vasudevan/EntroGraph-frontend.git
